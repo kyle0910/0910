@@ -309,6 +309,10 @@ body{
         padding: 25px 20px;
         font-weight: bold;
     }
+     #about > img{
+        width:270px;
+		
+    }
     
     
 }    
